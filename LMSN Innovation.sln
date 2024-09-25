@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMSN_Innovation", "LMSN_Innovation.csproj", "{BE149973-AB81-42AC-8189-7ACF021A2714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE149973-AB81-42AC-8189-7ACF021A2714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE149973-AB81-42AC-8189-7ACF021A2714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE149973-AB81-42AC-8189-7ACF021A2714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE149973-AB81-42AC-8189-7ACF021A2714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC25EE32-2C72-467F-BD9F-4507A9AEE2E5}
+	EndGlobalSection
+EndGlobal
